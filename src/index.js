@@ -1,1 +1,1 @@
-console.log(3 ?? 'adsf');
+console.log('My JS project');
